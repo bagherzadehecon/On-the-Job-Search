@@ -1,2 +1,2 @@
-# Optimal-Unemployment-Insurance
-DP Simulation
+# On the job search
+DP Simulation - Julia
